@@ -9,6 +9,6 @@ console.log(princesasDisney[4]);
 
 // Utilize um método para adicionar um nome ao inicio do array.
 
-let princesasDisney = ["Bela", "Aurora", "Merinda", "Ariel", "Moana"];
+
 princesasDisney.unshift("Jasmin");
 console.log(princesasDisney);
