@@ -22,3 +22,8 @@ console.log(princesasDisney);
 
 princesasDisney.push("Rapunzel","Cinderela");
 console.log(princesasDisney);
+
+// Utilize um método para remover o primeiro nome do array.
+
+princesasDisney.shift();
+console.log(princesasDisney);
