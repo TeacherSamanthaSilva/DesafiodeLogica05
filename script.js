@@ -15,5 +15,5 @@ console.log(princesasDisney);
 
 // Utilize um método para remover o último nome do array.
 
-princesesDisney.pop();
+princesasDisney.pop();
 console.log(princesasDisney);
