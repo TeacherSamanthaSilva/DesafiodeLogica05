@@ -17,3 +17,8 @@ console.log(princesasDisney);
 
 princesasDisney.pop();
 console.log(princesasDisney);
+
+// Utilize um método para adicionar dois nomes ao fim do array.
+
+princesasDisney.push("Rapunzel","Cinderela");
+console.log(princesasDisney);
